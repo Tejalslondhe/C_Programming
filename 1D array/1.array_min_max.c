@@ -6,7 +6,7 @@ number. Using these values, calculate the range of elements in the array.
 #include<stdio.h>
 int main()
 {
-	int arr[50],n,i,small,large;
+	int arr[40],n,i,small,large;
 	
 	printf("Enter the size of array:");
 	scanf("%d",&n);
